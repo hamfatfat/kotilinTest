@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#4183D7</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorPrimary">#4183D7</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#00b0b0</color>
+    <color name="colorLowCarb">#663399</color>
+    <color name="colorBalanced">#4183D7</color>
+    <color name="colorMediumCarb">#D2527F</color>
+    <color name="colorLowSodium">#F4D03F</color>
+    <color name="colorLowFat">#F2784B</color>
+    <color name="colorVegetarian">#26A65B</color>
+
+</resources>
